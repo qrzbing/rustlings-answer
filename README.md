@@ -1,3 +1,7 @@
+# Rustlings Ans By QRZ
+
+[笔记](obsidian://open?vault=%E7%AC%94%E8%AE%B0&file=pl%2Frust%2Frustlings)
+
 # rustlings 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
